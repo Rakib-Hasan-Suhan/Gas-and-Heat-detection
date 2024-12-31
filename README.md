@@ -21,4 +21,4 @@ The following tools are requried for project implementation:
 
 ### View:
 
-<img src="images/inside_project.jpeg" height=1000 width=1000>
+<img src="images/inside_project.png" height=1000 width=1000>
